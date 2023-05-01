@@ -1,2 +1,2 @@
 # Small_project
-*bootstrap templates
+##bootstrap templates
